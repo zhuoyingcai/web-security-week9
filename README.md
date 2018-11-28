@@ -9,5 +9,5 @@
 - A summary of the data collected: 
   - number of attacks: 4000+
   - number of malware samples: 2000+
-- Exporting data:
+- Exporting data: [data](https://raw.githubusercontent.com/zhuoyingcai/web-security-week9/master/session.json)
 
